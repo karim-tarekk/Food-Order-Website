@@ -6,7 +6,6 @@ Welcome to the Food Order Website project! This web application is built using R
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Features](#features)
 
 ## Getting Started
